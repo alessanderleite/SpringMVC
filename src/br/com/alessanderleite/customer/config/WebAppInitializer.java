@@ -1,4 +1,4 @@
-package br.com.alessanderleite.config;
+package br.com.alessanderleite.customer.config;
 
 import javax.servlet.ServletContext;
 import javax.servlet.ServletException;
